@@ -4,5 +4,8 @@
 - 🔧 Interested in full-stack development & machine learning
 - 🚀 Focused on building meaningful services and maximizing product features
 
-### ⚒️ Tech I Use
-React-native, Next.js, TypeScript, MySQL, SpringBoot, Python
+### ⚒️ Tech I'm Strong
+React.js React-native, Next.js, TypeScript
+
+### ⚒️ Tech I Used
+MySQL, SpringBoot, Python
