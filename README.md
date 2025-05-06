@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Moonkyu Jun
+## 👋 Hi, I'm Kevin Jun
 
 - 🇰🇷 CS student from South Korea, currently studying at Stony Brook University, SUNY
 - 🔧 Interested in full-stack development & machine learning
