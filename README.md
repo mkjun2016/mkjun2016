@@ -5,7 +5,7 @@
 - 🚀 Focused on building meaningful services and maximizing product features
 
 ### ⚒️ Tech I'm Strong
-React.js React-native, Next.js, TypeScript
+React.js, React-native, Next.js, TypeScript, Python
 
 ### ⚒️ Tech I Used
-MySQL, SpringBoot, Python, MongoDB, OpenCV
+MySQL, SpringBoot, MongoDB, OpenCV
