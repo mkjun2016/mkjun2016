@@ -9,7 +9,7 @@ CS @ Stony Brook University · SUNY Korea · Expected Aug 2027
 **Center for Visual Computing · Stony Brook University**  
 Retinal OCT Visualization for Apple Vision Pro — *IEEE VIS 2026 submission (2nd author)*
 
-### ⚙️ Tech Stack
+### 🛠️ Tech Stack
 
 **Core** — React · Next.js · TypeScript · Python  
 **Also** — Unity · SpringBoot · OpenCV · MySQL · MongoDB
