@@ -13,15 +13,6 @@ Retinal OCT Visualization for Apple Vision Pro — *IEEE VIS 2026 submission (2n
 
 ---
 
-### 🚀 Projects
-
-| Project | Description |
-|---|---|
-| [driving-drug-checker](https://driving-drug-checker.pages.dev) | 8,500+ 약물 운전위험도 분류 · HIRA 데이터 기반 |
-| [sbu-syllabus-mcp](https://github.com/...) | AI syllabus MCP server · Claude.ai 통합 · Railway 배포 |
-
----
-
 ### ⚙️ Tech Stack
 
 **Core** — React · Next.js · TypeScript · Python  
