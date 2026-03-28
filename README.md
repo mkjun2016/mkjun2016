@@ -1,11 +1,32 @@
-## 👋 Hi, I'm Moonkyu Jun
+## Hi, I'm Moonkyu Jun 👋
 
-- 🇰🇷 CS student from South Korea, currently studying at Stony Brook University, SUNY
-- 🔧 Interested in full-stack development & computer vision & XR development
-- 🚀 Focused on building meaningful services and maximizing product features
+CS @ Stony Brook University · SUNY Korea · Expected Aug 2027
 
-### ⚒️ Tech I'm Strong
-React.js, React-native, Next.js, TypeScript, Python
+`Computer Vision` `XR / Vision Pro` `Full-stack` `Applied AI`
 
-### ⚒️ Tech I Used
-MySQL, SpringBoot, MongoDB, OpenCV, Unity
+---
+
+### 🔬 Research
+
+**CVC Lab · Stony Brook University**  
+Retinal OCT Visualization for Apple Vision Pro — *IEEE VIS 2026 submission (2nd author)*
+
+---
+
+### 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [driving-drug-checker](https://driving-drug-checker.pages.dev) | 8,500+ 약물 운전위험도 분류 · HIRA 데이터 기반 |
+| [sbu-syllabus-mcp](https://github.com/...) | AI syllabus MCP server · Claude.ai 통합 · Railway 배포 |
+
+---
+
+### ⚙️ Tech Stack
+
+**Core** — React · Next.js · TypeScript · Python  
+**Also** — Unity · SpringBoot · OpenCV · MySQL · MongoDB
+
+---
+
+📍 Stony Brook, NY / Seoul, KR &nbsp;|&nbsp; 🇰🇷 Korean · 🇺🇸 English · 🇨🇳 Chinese
