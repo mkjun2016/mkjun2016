@@ -14,4 +14,4 @@ Retinal OCT Visualization for Apple Vision Pro — *IEEE VIS 2026 submission (2n
 **Core** — React · Next.js · TypeScript · Python  
 **Also** — Unity · SpringBoot · OpenCV · MySQL · MongoDB
 
-📍 Stony Brook, NY / Seoul, KR &nbsp;|&nbsp; 🇰🇷 Korean · 🇺🇸 English · 🇨🇳 Chinese
+📍 Stony Brook, NY / Incheon, KR &nbsp;|&nbsp; 🇰🇷 Korean · 🇺🇸 English · 🇨🇳 Chinese
