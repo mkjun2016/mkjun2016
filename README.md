@@ -6,7 +6,7 @@ CS @ Stony Brook University · SUNY Korea · Expected Aug 2027
 
 ### 🔬 Research
 
-**CVC Lab · Stony Brook University**  
+**Center for Visual Computing · Stony Brook University**  
 Retinal OCT Visualization for Apple Vision Pro — *IEEE VIS 2026 submission (2nd author)*
 
 ### ⚙️ Tech Stack
