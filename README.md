@@ -1,6 +1,6 @@
 ## Hi, I'm Moonkyu Jun 👋
 
-CS @ Stony Brook University · SUNY Korea · Expected Aug 2027
+CS @ Stony Brook University · SUNY Korea
 
 `Computer Vision` `XR / Vision Pro` `Full-stack` `Applied AI`
 
