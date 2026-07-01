@@ -6,6 +6,9 @@ CS @ Stony Brook University · SUNY Korea
 
 ### 🔬 Research
 
+**AMILab · Pusan National University**
+Medical Imaging Research
+
 **Center for Visual Computing · Stony Brook University**  
 Retinal OCT Visualization for Apple Vision Pro — *IEEE submission (2nd author)*
 
