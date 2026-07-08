@@ -2,7 +2,7 @@
 
 CS @ Stony Brook University · SUNY Korea
 
-`Computer Vision` `XR / Vision Pro` `Full-stack` `Applied AI`
+`Computer Vision` `Applied AI` `Deep Learning` `XR / Vision Pro` `Full-stack`
 
 ### 🔬 Research
 
